@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f5fa;
+}
+
+.header {
+    background-color: #e3eafc;
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1 {
+    color: #273db4;
+}
+
+.container {
+    width: 60%;
+    margin: 30px auto;
+}
+
+.container h2 {
+    color: #333;
+}
+
+.student-profile {
+    border: 2px solid #273db4;
+    padding: 15px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.student-profile h2 {
+    color: #273db4;
+}
+
+.footer {
+    background-color: #273db4;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
